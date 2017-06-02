@@ -1,0 +1,14 @@
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe.config
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.exe
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.pdb
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginDemo.csprojResolveAssemblyReference.cache
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.SignUp.resources
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.SignUp.aa.resources
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginDemo.csproj.GenerateResource.Cache
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.pdb
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\aa\LoginWindow.resources.dll
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\aa\LoginWindow.resources.dll
+C:\Users\ANNA\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\WindowsFormsApp3.Login.resources
